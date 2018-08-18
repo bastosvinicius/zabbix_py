@@ -1,1 +1,1 @@
-# zabbix_py
+# Zabbix Python Scripts
